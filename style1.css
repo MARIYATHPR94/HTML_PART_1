@@ -1,0 +1,52 @@
+
+
+h2{color:rgb(38, 255, 0);text-align: center;
+font-style: italic;
+font-size: larger;}
+p{color: red;}
+body{
+    background-color: aqua};
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #myid{color: green;}
+   
+
+
+
+
+    .myclass{color:#ff0000;}
+    .c2{color: chartreuse;}
+.c1{color:aqua;}
+
+div {
+  border: 5px solid blue; /* Border color */
+  background-color: lightyellow; /* Inside color */
+  padding: 20px;
+}
+
+h1{
+ border-style: solid;       
+border-width:10px;
+border-color:red;
+  }
+    p{border-style: dotted;
+    }
+    h2{ border: 10px solid blue;}
+    
+    h1{padding: 20px;}
+  p{padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 100px;}
